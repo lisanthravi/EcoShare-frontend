@@ -1,0 +1,148 @@
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.header-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.post-card {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+.post-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+ .ser-outer
+ {
+    /* border: 1px solid black; */
+    /* background-color: aqua; */
+    top: 2.2cm;
+    position: relative;
+ }
+ .ser-p
+ {
+    font-size: 20px;
+    text-align: left;
+ }
+ .ser-su
+ {
+    color: rgb(43, 46, 51);
+    text-align: left;
+ }
+ .ser-h3
+ {
+    font-size: x-large;
+    color: rgb(40, 76, 118)
+ }
+ .ser-dis
+ {
+    margin: 10px;
+    height: 8.6cm;
+    width: 15cm;
+    background-color: rgb(163, 210, 218);
+    border-radius: 10px;
+ }
+.dis
+{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+.ser-tit
+{
+    color: black;
+    font-size: 35px;
+    font-weight: 500;
+    padding: 20px;
+    top: 20px;
+    position: relative;
+}
+.ser-des
+{
+    position: relative;
+    color: black;
+     font-size: 35px;
+    font-weight: 500;
+    padding: 20px;
+    top: -2.3cm;
+    left: 40px;
+}
+.ser-in1
+{
+    height: 0.8cm;
+    position: relative;
+    top: 20px;
+    padding: auto;
+    width: 9cm;
+    font-size: large;
+    border-radius: 10px;
+}
+.ser-in2
+{
+    height: 4cm;
+    font-size: large;
+    width: 9cm;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: relative;
+    top: 2.4cm;
+    left: -49px;
+}
+.ser-form
+{
+    height: 10cm;
+    border-radius: 20px;
+    width: 19cm;
+    position: relative;
+    left: 7.4cm;
+    background-color: rgb(163, 210, 218);
+}
+.ser-sub
+{
+    position: relative;
+    top: 3cm;
+    left: 1cm;
+    font-size: 26px;
+    border-radius: 10px;
+    background-color: rgb(83, 120, 208);
+    color: white;
+    box-shadow: 2px 2px black;
+    transition: 0.5s;
+}
+.ser-sub:hover{
+    background-color: rgb(151, 64, 97);
+}
+.ser-d
+{
+    font-size: 40px;
+}

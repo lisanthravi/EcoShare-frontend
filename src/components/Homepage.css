@@ -1,0 +1,301 @@
+.home-outer{
+    /* border: 1px solid black; */
+    height: 19cm;
+    width: 100%;
+  background-color: rgb(226, 231, 247);
+}
+.home-button
+{
+    position: relative;
+    font-size: 36px;
+    background-color: rgb(74, 74, 195);
+    position: relative;
+    color: aliceblue;
+    border: none;
+    box-shadow: 3px 3px black;
+    border-radius: 8px;
+    transition: 0.5s;
+    top: 1.5cm;
+    text-decoration: none;
+}
+.home-button:hover
+{
+    background-color: rgb(158, 68, 68);
+}
+.f-l
+{
+    padding: 10px;
+    font-size: larger;
+}
+.f-li1
+{
+    
+    position: relative;
+    text-align: left;
+    top: 1cm;
+   
+}
+ .f-2
+ {
+    /* border: 1px solid black; */
+    height: 10cm;
+    width: 8cm;
+    position: relative;
+    left: 10.5cm;
+    top: -8.5cm;
+ }
+ .f-img
+ {
+    height: 9cm;
+    width: 13cm;
+    position: relative;
+    left: 20cm;
+    top: -18cm;
+    background-size: cover;
+    background-image: url("../images/img3.webp");
+ }
+.f-1
+{
+    /* border: 1px solid black; */
+    height: 10cm;
+    width: 7.4cm;
+    position: relative;
+    left: 1cm;
+    top: 1.5cm;
+}
+.f-outer
+{
+    height: 15cm;
+    width: 100%;
+    background-color: rgb(226, 231, 247);
+    /* border: 1px solid black; */
+}
+.s-h1
+{
+    color: black;
+    font-size: 40px;
+}
+.service-outer
+{
+    /* border: 1px solid black; */
+    height: 18cm;
+    width: 100%;
+}
+.service-topic
+{
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    height: 3cm;
+    width: 90%;
+    top: 1cm;
+    position: relative;
+    padding: 10px;
+    left: 1cm;
+    display: flex;
+}
+.home-image
+{
+    position: relative;
+    height: 10.2cm;
+    width: 14cm;
+    /* border: 1px solid black; */
+    left: 19.5cm;
+ top: -4.5cm;
+    background-image: url(../images/1.jpg);
+    background-size: cover;
+     
+}
+.s-button
+{
+    position: relative;
+    font-size: 34px;
+    height: 1.3cm;
+    background-color: rgb(74, 74, 195);
+    position: relative;
+    color: aliceblue;
+    border: none;
+    box-shadow: 3px 3px black;
+    border-radius: 8px;
+    transition: 0.5s;
+    text-decoration: none;
+    
+}
+.home-h1{
+    font-size: 55px;
+    color: black;
+    font-weight: bold;
+     left: -2cm;
+     position: relative;
+}
+.home-para
+{
+    color: black;
+    font-size: x-large;
+    text-align: justify;
+    top: 1cm;
+}
+.home-text
+{
+    /* border: 1px solid black; */
+    height: 10cm;
+    width: 18cm;
+    position: relative;
+     
+    left: 1cm;
+    top: 5.6cm;
+}
+ 
+.s-2
+{
+    top: -7.5cm;
+    height: 9cm;
+    width: 13cm;
+    /* border: 1px solid black; */
+    position: relative;
+    left: 18cm;
+}
+.s-1
+{
+    top: 1.5cm;
+    height: 9cm;
+    width: 13cm;
+    /* border: 1px solid black; */
+    position: relative;
+    left: 3cm;
+}
+.img-1
+{
+    height: 7.5cm;
+}
+.c-outer
+{
+    position: relative;
+    height: 7cm;
+    width: 100%;
+  
+    /* text-align: left; */
+}
+.f-p
+{
+    color: black;
+    padding: 10px;
+    font-size: large;
+}
+.f-h3
+{
+    padding-top: 10px;
+    color: black;
+    text-align: left;
+    padding-left: 40px;
+}
+ .about-outer
+ {
+    /* border: 1px solid black; */
+  
+    top: 2.22cm;
+    position: relative;
+    
+    width: 100%;
+    background-color: rgb(226, 231, 247);
+ }
+ .about-text
+ {
+    /* border: 1px solid black; */
+    height: 10cm;
+    width: 17cm;
+    position: relative;
+    top: 3.4cm;
+    left: 1cm;
+ }
+ .img3
+ {
+    height: 14cm;
+    width: 14cm;
+    top: -9.3cm;
+    position: relative;
+    left: 8.8cm;
+ }
+
+ .se-out
+ {
+    position: relative;
+    border: 1px solid black;
+    top: 2.21cm;
+    padding: 10px;
+    padding-top: 10px;
+    height: 48cm;
+     display: grid;
+    grid-template-columns: auto auto;
+    background-color:  rgb(226, 231, 247);
+ }
+
+ .se-Air
+ {
+    border: 1px solid black;
+
+ }
+ .login
+ {
+    position: relative;
+    top: 5cm;
+    /* border: 1px solid black; */
+    height: 8cm;
+    border-radius: 10px;
+    width: 10cm;
+    left: 12cm;
+    box-shadow: 3px 3px 10px 10px grey;
+    padding: 20px;
+ }
+ .l-em{
+    padding-top: 20px;
+    padding-right: 130px;
+    font-size: larger;
+ }
+ .l-message
+ {
+    font-size: 48px;
+    position: relative;
+    top: -11cm;
+    color: green;
+ }
+ .l-pas
+ {
+    font-size: larger;
+    padding-top: 10px;
+    padding-right: 100px;
+ }
+ .l-in1
+ {
+    height: 25px;
+    width: 6cm;
+    padding-left: 30px;
+    left: 1cm;
+    position: relative;
+    font-size: large;
+    border-radius: 10px;
+ }
+ .l-sub
+ {
+    position: relative;
+    top: 10px;
+    
+    height: 1cm;
+    width: 4cm;
+    left: 10px;
+    font-size: larger;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+ }
+ .l-sub1
+ {
+    position: relative;
+    top: 10px;
+    left: 14px;
+    height: 1cm;
+    width: 7cm;
+    font-size: larger;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+ }

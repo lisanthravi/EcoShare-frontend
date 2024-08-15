@@ -1,0 +1,43 @@
+nav {
+    background-size: cover;
+    background-color: rgb(181, 245, 121);
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95.4%;
+    position: fixed;
+    z-index: 1;
+}
+
+*
+{
+    margin: 0;
+    top: 0;
+}
+.n-h1 {
+    color: #893232;
+    margin: 0;
+    font-size: 2rem;
+}
+
+.head{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    margin: 0;
+}
+
+ .lis {
+    color: red;
+    text-decoration: none;
+    font-size:x-large;
+    font-weight:bold;
+    transition: color 0.3s;
+    font-size: larger;
+}
+
+.lis:hover {
+    color: #1abc9c;
+    text-decoration: none;
+}
